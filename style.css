@@ -1,0 +1,28 @@
+/* Temporary starter styling (we will transform into retro-tech neon) */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    padding: 50px 0;
+}
+
+h1 {
+    font-size: 3rem;
+    letter-spacing: 2px;
+}
+
+.tagline {
+    opacity: 0.7;
+    font-size: 1.1rem;
+}
+
+.hero {
+    margin-top: 40px;
+}
